@@ -10,5 +10,11 @@
       "address": "0xd112466471b5438c1ca2d218694200e49d81d047",
       "startBlock": 7247379
     }
+  },
+  "gu_sandbox": {
+    "LooksRareExchange": {
+      "address": "0x68B1D87F95878fE05B998F19b66F4baba5De1aed",
+      "startBlock": 10399940
+    }
   }
 }

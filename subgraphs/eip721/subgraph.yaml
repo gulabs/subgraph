@@ -6,10 +6,10 @@ schema:
 dataSources:
   - kind: ethereum/contract
     name: EIP721
-    network: mainnet
+    network: gu_sandbox
     source:
       abi: EIP721
-      startBlock: 4300082
+      startBlock: 0
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.6
