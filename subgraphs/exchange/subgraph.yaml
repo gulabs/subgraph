@@ -6,11 +6,11 @@ schema:
 dataSources:
   - kind: ethereum/contract
     name: LooksRareExchange
-    network: mainnet
+    network: gu_sandbox
     source:
       abi: LooksRareExchange
-      address: "0x59728544b08ab483533076417fbbb2fd0b17ce3a"
-      startBlock: 13885625
+      address: "0x68B1D87F95878fE05B998F19b66F4baba5De1aed"
+      startBlock: 10399940
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.6

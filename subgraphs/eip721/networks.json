@@ -8,5 +8,10 @@
     "EIP721": {
       "startBlock": 0
     }
+  },
+  "gu_sandbox": {
+    "EIP721": {
+      "startBlock": 0
+    }
   }
 }
